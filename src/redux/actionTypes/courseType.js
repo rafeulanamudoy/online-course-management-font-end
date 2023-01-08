@@ -1,0 +1,8 @@
+export const FETCH_COURSE = "FETCH_COURSE"
+export const ADD_COURSE = "ADD_COURSE";
+export const FILTER_BY_FIRST = "FILTER_BY_FIRST";
+export const FILTER_BY_LAST = "FILTER_BY_LAST";
+export const FILTER_BY_TYPE = "FILTER_BY_TYPE";
+export const FETCH_COURSE_BY_ID = "FETCH_COURSE_BY_ID";
+
+export const REMOVE_COURSE = "REMOVE_COURSE";
